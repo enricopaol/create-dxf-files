@@ -1,0 +1,15 @@
+button {
+    background-color: #ad1818;
+    padding: 10px 15px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 5px;
+    outline: none; 
+    border: none;   
+    cursor: pointer;
+    transition: transform .12s;
+}
+
+button:active {
+    transform: scale(.97);
+}

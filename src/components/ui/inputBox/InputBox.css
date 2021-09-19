@@ -1,0 +1,9 @@
+input {
+    padding: 7px;
+    border-radius: 4px;    
+    flex-grow: 1;   
+}
+
+input.alert {
+    border: 2px solid red;
+}
